@@ -1,0 +1,11 @@
+{
+  "disk_model_token": "00AAKS-00F0A0",
+  "min_disk_bytes": 249000000000,
+  "max_disk_bytes": 251000000000,
+  "development_source": "/srv/software_development",
+  "development_block": "/dev/sdd1",
+  "clone_end": "70GiB",
+  "keep_last_backups": 10,
+  "min_free_before_development_bytes": 5000000000,
+  "erase_phrase": "ERASE-WD2500AAKS-250GB"
+}
